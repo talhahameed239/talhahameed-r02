@@ -1,0 +1,14 @@
+.service{
+    width: 100%;
+    background:  #F6F8F7;;
+}
+.service h2{
+    text-align: center;
+    padding-top: 23px;
+    color: #292E3D;
+    font-size: 35px;
+}
+.service-cards{
+    margin-left: 250px;
+    cursor: pointer;
+}

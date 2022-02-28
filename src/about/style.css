@@ -1,0 +1,39 @@
+.about{
+    display: flex;
+}
+.card img{
+    width: 70%;
+    margin-left: 190px;
+    margin-top: 20px;
+}
+.card2{
+    background: #2947A9;;
+    width:330px;
+    height: 350px;
+    padding: 35px;
+    position: relative;
+    right: 20%;
+    top: 85px;
+}
+.card2 h2{
+    color: white;
+    font-style: bold;
+    font-size: 30px;
+}
+.card2 p{
+    color: white;
+    font-size: 15px;
+    line-height: 20px;
+}
+.card2 a{
+    background: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+    top: 24px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2947A9;;
+}

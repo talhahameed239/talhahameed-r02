@@ -1,0 +1,75 @@
+.container1{
+    width: 100%;
+    display: flex;
+}
+.container1 .stat-cards{
+    flex-direction: column;
+    padding: 30px;    
+}
+.stat-cards .stat1{
+   margin-left: 40%;
+   margin-top: 40px;
+}
+.stat-cards .stat2{
+    margin-left: 20%;
+    margin-top: -60px;
+    position: relative;
+    z-index: -1;
+}
+.stat-cards .stat3{
+    margin-left: 40%;
+    margin-top: -50px;
+    
+}
+.stat-cards .stat4{
+    margin-left: 20%;
+    margin-top: -50px;
+    position: relative;
+    z-index: -1;
+}
+ .illus1{
+   position: relative;
+   left: -630px;
+   top:-10px;
+}
+.illus2{
+    position: relative;
+    left: -40px;
+    top: 14px;
+}
+.illus3{
+    position: relative;
+    left: 76%;
+    top: -124px;
+  
+}
+.illus4{
+    position: relative;
+    left: 13px;
+}
+.heading {
+     margin-right: 18%;
+     margin-top: 120px;
+}
+.heading h1{
+    font-size: 50px;
+    font-style: bold;
+    color: #2947A9;;
+}
+.heading p{
+    color: #525B7A;
+    font-size: 15px;
+    margin-top: -10px;
+    margin-left: 6px;
+}
+.heading a{
+    padding: 13px 23px;
+    position: relative;
+    top: 27px;
+    left: 5px;
+    text-decoration: none;
+    background: #2947A9;
+    border-radius: 2px;
+    color: white;
+    font-weight: 600;
+}

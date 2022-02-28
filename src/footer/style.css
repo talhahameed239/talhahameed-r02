@@ -1,0 +1,68 @@
+.footer{
+    width: 100%;
+}
+.contact-list{
+    float: left;
+    margin-top: 70px;
+    margin-left: 120px;
+    line-height: 20px;
+}
+.contact-list label{
+    color: #2947A9;
+    font-size: 17px;
+    font-weight: 500;
+}
+.contact-list h2{
+    color:#2947A9;
+    margin-top: -40px;
+    margin-left: 50px;
+}
+.social-icons{
+    float: right;
+    margin-top: 70px;
+    margin-right: 170px;
+}
+.social-icons label{
+    color: #2947A9;
+    font-size: 17px;
+    font-weight: 500;
+}
+.social-icons input{
+    outline: none;
+    margin-top: 8px;
+    padding: 10px;
+    width: 280px;
+    border: 1px solid #E0E3EB;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.social-icons .subscribe{
+    margin-left: 10px;
+    width: 130px;
+    background: #F9995D;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+}
+.links{
+    margin-left: -17px;
+}
+.links img{
+    margin-top: 9px;
+    margin-left: 13px;
+    cursor: pointer;
+}
+ .footer .copyright{
+    background: #2947A9;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top: 280px;
+}
+.copyright p{
+    color: #FFFFFF;
+    font-size: 17px;
+    padding: 15px;
+    position: relative;
+    left: -355px;
+}
